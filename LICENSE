@@ -1,0 +1,47 @@
+Buscador de Archivos Parroquiales de España
+Copyright © 2026 Pablo Granadino Aranda
+
+================================================================
+LICENCIA
+================================================================
+
+El buscador (su diseño, código fuente, estructura y organización
+de los datos) se publica bajo la licencia:
+
+  Creative Commons Reconocimiento-NoComercial-SinObraDerivada 4.0
+  Internacional (CC BY-NC-ND 4.0)
+
+Texto completo de la licencia:
+  https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.es
+Resumen legible:
+  https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es
+
+En resumen, usted es libre de:
+  - Compartir: copiar y redistribuir el material en cualquier
+    medio o formato.
+
+Bajo las siguientes condiciones:
+  - Reconocimiento: debe citar al autor (Pablo Granadino Aranda)
+    y enlazar a la licencia.
+  - NoComercial: no puede utilizar el material con fines
+    comerciales.
+  - SinObraDerivada: si remezcla, transforma o crea a partir del
+    material, no puede difundir el material modificado.
+
+Sin restricciones adicionales: no puede aplicar términos legales
+ni medidas tecnológicas que restrinjan legalmente a otros hacer
+cualquier uso permitido por la licencia.
+
+================================================================
+SOBRE LOS DATOS DE ORIGEN
+================================================================
+
+Los datos están derivados de la "Guía de los Archivos de la
+Iglesia en España" (Asociación de Archiveros de la Iglesia en
+España / Ministerio de Cultura, 2001). Los hechos en sí (qué
+archivo se conserva y desde qué año) no son objeto de derechos de
+autor. Esta herramienta no reproduce el texto de dicha obra; la
+protección de esta licencia recae sobre la recopilación,
+estructura, código y presentación realizados por el autor.
+
+Para usos no contemplados por la licencia, contacte con el autor.
