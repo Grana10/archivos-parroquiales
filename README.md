@@ -17,7 +17,7 @@ un pueblo, una parroquia o un santo titular y obtienes al momento qué series se
 conservan, desde qué año, si están concentradas en el archivo diocesano, dónde se
 custodian hoy y —cuando existe— **un enlace directo al recurso online** de esa parroquia.
 
-> 🔗 **Demo en vivo:** _(añade aquí la URL de GitHub Pages cuando publiques)_
+> 🔗 **Demo en vivo:** https://grana10.github.io/archivos-parroquiales/
 
 ---
 
